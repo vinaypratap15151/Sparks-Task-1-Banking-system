@@ -19,6 +19,6 @@
 8) MONGOOSE
 
 
-# DEMO
+# Demo
 
 https://enigmatic-beach-71240.herokuapp.com/
