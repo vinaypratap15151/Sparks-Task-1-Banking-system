@@ -114,48 +114,6 @@ app.post("/", (req, res) => {
   })
 })
 
-// app.post('/customers',function(req,res){
-  
-// })
-// app.get("/posts/:postname",function(req,res){
-//   var current =_.lowerCase(req.params.postname);
-//   posts.forEach(function(post){
-//     if(current===_.lowerCase(post.title)){
-//          const currentcontent=post.content;
-//       res.render("post",{titlethis:current, contentthis:currentcontent});
-      
-//     }
-//   })
-// })
-// app.get("/about", function (req, res) {
-
-//   res.render("about", { contentabout: aboutContent });
-
-// });
-// app.get("/contact", function (req, res) {
-//   res.render("contact", { contentcontact: contactContent });
-
-// });
-// app.get("/compose", function (req, res) {
-//   res.render("compose");
-
-// });
-// app.post("/compose", function (req, res) {
-//   const post = {
-//     title: req.body.posttitle,
-//     content: req.body.postbody
-
-
-//   };
-//   posts.push(post);
-//   res.redirect("/");
-
-// });
-
-
-
-
-
 
 
 
